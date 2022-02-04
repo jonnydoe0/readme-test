@@ -7,6 +7,7 @@
 * [Creating your first project](guides/creating-your-first-project.md)
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
+* [Test additional page](guides/test-additional-page.md)
 
 ## Fundamentals
 
