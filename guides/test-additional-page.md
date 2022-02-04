@@ -8,4 +8,6 @@ Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibe
 
 ![](<../.gitbook/assets/Thousand - 5 of 7.jpeg>)
 
-*This line is added in github*
+_This line is added in github_
+
+_This line is added in gitbook_
