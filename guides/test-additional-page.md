@@ -29,3 +29,5 @@ And another
 This time?
 
 Test Discourse Github again
+
+After logging in with github
